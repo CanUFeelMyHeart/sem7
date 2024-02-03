@@ -74,3 +74,11 @@ void ShowArrayReverse(int[] arr, int size)
     // Рекурсивный 
 
 }
+f
+af
+
+f
+af
+a
+f
+af
